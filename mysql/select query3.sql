@@ -1,1 +1,1 @@
-select * from CITY where ID=1661;
+select CITY,STATE from STATION;
