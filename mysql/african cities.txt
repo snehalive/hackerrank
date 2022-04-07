@@ -1,0 +1,1 @@
+select city.name from CITY,COUNTRY where code= countrycode and continent= 'africa';
